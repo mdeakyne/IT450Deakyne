@@ -1,3 +1,4 @@
+"A quick test"
 def bin_to_str(pos, binary_digit):
     if pos == 1:
         ret_str = ".."
