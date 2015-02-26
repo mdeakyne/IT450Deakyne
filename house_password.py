@@ -4,6 +4,8 @@ len > = 10
 1 digit
 1 upper
 1 lower
+
+TODO: Make changes
 """
 def checkio(data):
     length = False
